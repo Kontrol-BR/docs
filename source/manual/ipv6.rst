@@ -3,7 +3,7 @@ Using IPv6
 ==========
 
 .. image:: images/IPv6.png
-   :scale: 100%
+   :width: 100%
 
 OPNsense fully supports IPv6 for routing and firewall. However there are lots of
 different options to utilize IPv6. Currently these scenario's are known to work:
@@ -23,3 +23,4 @@ Configuring
 
 - :doc:`/manual/how-tos/IPv6_ZenUK`
 - :doc:`/manual/how-tos/ipv6_tunnelbroker`
+- :doc:`/manual/how-tos/ipv6_dsl`
